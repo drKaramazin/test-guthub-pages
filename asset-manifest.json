@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/test-guthub-pages/static/css/main.073c9b0a.css",
+    "main.js": "/test-guthub-pages/static/js/main.304a0cbd.js",
+    "static/js/787.ae70009a.chunk.js": "/test-guthub-pages/static/js/787.ae70009a.chunk.js",
+    "static/media/logo.svg": "/test-guthub-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/test-guthub-pages/index.html",
+    "main.073c9b0a.css.map": "/test-guthub-pages/static/css/main.073c9b0a.css.map",
+    "main.304a0cbd.js.map": "/test-guthub-pages/static/js/main.304a0cbd.js.map",
+    "787.ae70009a.chunk.js.map": "/test-guthub-pages/static/js/787.ae70009a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.304a0cbd.js"
+  ]
+}
