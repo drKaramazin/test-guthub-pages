@@ -11,7 +11,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "http://drKaramazin.github.io/test-guthub-pages",
+  "homepage": "https://drkaramazin.github.io/test-guthub-pages/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
